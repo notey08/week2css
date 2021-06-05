@@ -1,0 +1,42 @@
+nav {
+    margin: 1%;
+    background-color: grey;
+    padding: 1%;
+}
+
+.pics {
+    image-resolution: 75%;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    /*transform: scaleX(-1);*/
+}
+
+.table, td, tr{
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'Prata', serif;
+}
+
+h1, h2, h5, h3, p{
+    text-align: center;
+    font-family: 'Prata', serif;
+}
+
+#Destinations {
+    text-align: center;
+    font-family: "Prata", serif;
+    list-style-position: inside;
+}
+
+.form {
+    display: block; 
+    border-radius: auto;
+    font-family: "Prata";
+    text-align: center;
+}
